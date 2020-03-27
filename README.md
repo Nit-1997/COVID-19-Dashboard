@@ -1,2 +1,2 @@
-# Nit-1997
+# COVID-19 DASHBOARD
 Covid-19 dashboard city wise
