@@ -6,7 +6,7 @@ var  express        = require("express")
    , bodyParser     = require("body-parser");
 
 const path = require("path");
-mongoose.connect('c');
+mongoose.connect('YOUR DB');
 app.use(cors());
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json({limit: "50mb"}));
